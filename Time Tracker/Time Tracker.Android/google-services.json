@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943274349131",
+    "project_id": "login-and-firestore-app",
+    "storage_bucket": "login-and-firestore-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943274349131:android:e3736368494b75f526f3ce",
+        "android_client_info": {
+          "package_name": "com.thecodingcompany.time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943274349131-v0of9mb260p3hvacloeqln08srtm6h1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqu-f_SGsJD12hVVux7kdCzKECL1uhYV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943274349131-v0of9mb260p3hvacloeqln08srtm6h1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
